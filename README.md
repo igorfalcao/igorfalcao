@@ -26,12 +26,13 @@ Data Scientist com mais de 5 anos de experiência, desenvolvendo soluções base
 - Implantação de soluções em nuvem com **AWS** e **Azure**.  
 
 ### **Pesquisador**
-- Aplicação de modelos de **IA** em problemas de saúde pública na Amazônia.  
+- Aplicação de modelos de **IA** em problemas de saúde pública na Amazônia.
+- Aplicação de mmodelos de **Machine Learning**  para explorar os dados socioeconômicos e prever as tendências.
 - Planejamento e análise de redes de comunicação na área de engenharia elétrica.  
 - Publicações em eventos acadêmicos e workshops na área de Ciência de Dados.
 
 ### **Professor Universitário**
-- Mais de 2 anos lecionando disciplinas em Ciência de Dados e Tecnologia da Informação.  
+- Mais de 4 anos lecionando disciplinas em Ciência de Dados e Tecnologia da Informação.  
 - Mentoria de projetos acadêmicos e orientação em iniciação científica.
 
 ---
