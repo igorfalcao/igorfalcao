@@ -8,7 +8,7 @@ Data Scientist com mais de 5 anos de experiência, desenvolvendo soluções base
 ---
 
 ## 🎓 **Formação Acadêmica**
-- **Doutorando em Engenharia Elétrica** - UFPA  
+- **Doutorado em Engenharia Elétrica** - UFPA (2024)   
   *Aplicação de IA e Machine Learning para doenças negligenciadas na região amazônica.*  
 - **Mestrado em Engenharia Elétrica** - UFPA (2020)  
   *Planejamento e provisionamento de Redes de Acesso via Rádio.*  
